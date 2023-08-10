@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @grape0117
-- 👀 I’m interested in React.js, Node.js, Laravel, Django, Python and etc.
-I am a talented and passionate full-stack developer with a focus on front-end development with React and
-Angular. I am also strong in building mobile apps with React Native and specializes in dynamic languages such as
-JavaScript, Python, PHP, etc. I am passionate about working with motivated teams and getting things done.
-Currently, I prefer to work with React and Redux. I strictly adhere to the DRY principle and KISS approach.
+
+Hi there 👋, I'm @grape0117, a software developer with many years of experience. I'm fluent with the following languages: C++, Objective-C, Swift, C, Java, PHP, JavaScript, TypeScript, Kotlin (and I know a little of a lot of other languages 😂). I develop mobile app since 2010 and web application since 2005. I'm also passionate about computer graphics 
 <!---
 grape0117/grape0117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
