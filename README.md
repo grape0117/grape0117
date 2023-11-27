@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=1000&lines=I+am+a+FullStack+Developer!;Lots+of+Experience+in+Full Stack, Network Management." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=1000&lines=I+am+a+FullStack+Developer!;Lots+of+Experience+in+Full Stack, Data Visualisation." alt="Typing SVG" /></a>
 </div>
 
 
