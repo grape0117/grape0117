@@ -1,7 +1,7 @@
 
 I am an experienced professional Full-stack Developer. I have mastered the art of full-stack development and can provide all of the following services:
 
-Backend Technologies(Node, ROR, Django, MongoDB, MySQL, POSTGRE, Docker)
+Backend Technologies(Node, ROR, Django, MongoDB, MySQL, POSTGRE, Docker)<br>
 Frontend Technologies(React, Next, Vue)
 API Integration
 Sever Setup
